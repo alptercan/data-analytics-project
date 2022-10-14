@@ -1,0 +1,23 @@
+IndicatorCode,Period type,Period,Value
+R_Curr_mp,Year,2020,GBP
+R_Price_mp_estimate,Year,2020,10.3
+R_Price_mp_estimate_ppp,Year,2020,14.91
+R_Price_mp_estimate_usd,Year,2020,13.53
+R_Price_mp_estimate,Year,2018,9.4
+R_Price_mp_estimate_ppp,Year,2018,13.82
+R_Price_mp_estimate_usd,Year,2018,12.37
+R_Price_mp_estimate,Year,2016,8.3
+R_Price_mp_estimate_ppp,Year,2016,12.05
+R_Price_mp_estimate_usd,Year,2016,10.94
+R_Price_mp_estimate,Year,2014,7.52
+R_Price_mp_estimate_ppp,Year,2014,10.77
+R_Price_mp_estimate_usd,Year,2014,12.69
+R_Price_mp_estimate,Year,2012,6.6
+R_Price_mp_estimate_ppp,Year,2012,9.4
+R_Price_mp_estimate_usd,Year,2012,10.31
+R_Price_mp_estimate,Year,2010,6.29
+R_Price_mp_estimate_ppp,Year,2010,8.91
+R_Price_mp_estimate_usd,Year,2010,9.8
+R_Price_mp_estimate,Year,2008,5.67
+R_Price_mp_estimate_ppp,Year,2008,8.12
+R_Price_mp_estimate_usd,Year,2008,8.27
